@@ -1,12 +1,12 @@
-# aws-3tier-web-application
+ aws-3tier-web-application
 
 AWS 3-Tier Web Application Project
 
-\# AWS 3-Tier Web Application
+ AWS 3-Tier Web Application
 
 
 
-\## About Project
+ About Project
 
 
 
@@ -14,59 +14,59 @@ This is my AWS 3-Tier Web Application project. I created this project to learn h
 
 
 
-\## AWS Services Used
+AWS Services Used
 
 
 
-\- Amazon VPC
+ Amazon VPC
 
-\- Public and Private Subnets
+ Public and Private Subnets
 
-\- Internet Gateway
+ Internet Gateway
 
-\- NAT Gateway
+ NAT Gateway
 
-\- Route Tables
+ Route Tables
 
-\- Security Groups
+ Security Groups
 
-\- EC2 Instance
+ EC2 Instance
 
-\- Application Load Balancer
+ Application Load Balancer
 
-\- Amazon RDS
+ Amazon RDS
 
-\- IAM
-
-
-
-\## Project Steps
+ IAM
 
 
 
-1\. Created a VPC.
+ Project Steps
 
-2\. Created Public and Private Subnets.
 
-3\. Configured Route Tables.
 
-4\. Attached Internet Gateway and NAT Gateway.
+1 Created a VPC.
 
-5\. Created Security Groups.
+2 Created Public and Private Subnets.
 
-6\. Launched EC2 Instances.
+3 Configured Route Tables.
 
-7\. Created an Application Load Balancer.
+4 Attached Internet Gateway and NAT Gateway.
 
-8\. Created an RDS MySQL Database.
+5 Created Security Groups.
+
+6 Launched EC2 Instances.
+
+7 Created an Application Load Balancer.
+
+8 Created an RDS MySQL Database.
 
 9\. Connected the web server with the database.
 
-10\. Tested the application successfully.
+10 Tested the application successfully.
 
 
 
-\## Folder Structure
+ Folder Structure
 
 
 
@@ -86,33 +86,30 @@ aws-3tier-web-application
 
 │── docs
 
-```
 
 
 
-\# Learning
+ Learning
 
 
 
 From this project I learned:
 
 
+ AWS Networking
 
-\- AWS Networking
+ EC2 Configuration
 
-\- EC2 Configuration
+ Security Groups
 
-\- Security Groups
+ Load Balancer
 
-\- Load Balancer
+ RDS Database
 
-\- RDS Database
-
-\- High Availability Architecture
-
+ High Availability Architecture
 
 
-&#x20;Author
+
 
 
 
